@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use or quote this implementation API layer, please cite it as below."
 type: software
 title: "terra-translation-api"
 authors:
@@ -11,10 +11,10 @@ repository-code: "https://github.com/Secret-Uzbek/terra-translation-api"
 abstract: "Production-ready semantic translation API based on UCOM protocol."
 keywords:
   - fractal-metascience
-  - fmp
-  - uzbekistan
-  - open-science
+  - translation-api
+  - ucom
+  - semantics
+  - implementation
 license: CC0-1.0
 date-released: "2026-03-03"
 version: "1.0.0"
-# doi: "10.5281/zenodo.TODO"
