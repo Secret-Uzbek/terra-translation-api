@@ -1,4 +1,4 @@
-рџ¤ќ CONTRIBUTING TO TERRA ECOSYSTEM
+🤝 CONTRIBUTING TO TERRA ECOSYSTEM
 
 Welcome to Terra Ecosystem - the ethically-first educational platform!
 AUTHOR OF STANDARDS: Abdurashid A. Abdukarimov
@@ -13,11 +13,11 @@ Terra Ecosystem aims to revolutionize child education through ethical technologi
 
 🏛пёЏ Foundational Principles
 
-рџ›ЎпёЏ Child Safety First - every change undergoes a child impact assessment
-вљ–пёЏ Ethical Integrity - all decisions undergo Gefunden Protocol validation
+🛡️ Child Safety First - every change undergoes a child impact assessment
+⚖️ Ethical Integrity - all decisions undergo Gefunden Protocol validation
 🌍 Cultural Inclusivity - respect for the diversity of traditions and values
-рџ”¬ Scientific Basis - only proven technologies without pseudoscience
-рџ‘Є Family-Oriented Approach - strengthening, not replacing, family ties
+🔬 Scientific Basis - only proven technologies without pseudoscience
+👪 Family-Oriented Approach - strengthening, not replacing, family ties
 
 📋 HOW TO CONTRIBUTE
 
@@ -25,7 +25,7 @@ Terra Ecosystem aims to revolutionize child education through ethical technologi
 
 Be sure to familiarize yourself with:
 📜 Terra Universal Convention v1.0 - legal foundation
-вљ–пёЏ Gefunden Ethical Framework - ethical principles
+⚖️ Gefunden Ethical Framework - ethical principles
 📖 AIUZ Documentation Standards - documentation standards
 🔒 Security Guidelines - security requirements
 📋 Code of Conduct - behavioral guidelines
@@ -51,7 +51,7 @@ Cross-cultural educational research
 Ethical AI in education research
 Long-term impact of digital education on children
 
-рџ› пёЏ TYPES OF CONTRIBUTIONS
+рџ› ️ TYPES OF CONTRIBUTIONS
 
 📝 1. Documentation
 What is needed:
@@ -64,7 +64,7 @@ Compliance with AIUZ Documentation Standards v1.0
 Cultural adaptation for the target audience
 Ethical validation check of the content
 
-рџђ› 2. Bug Fixes
+🐛 2. Bug Fixes
 Process:
 Find or create an Issue describing the problem
 Ensure the bug affects child safety or the educational process
@@ -73,7 +73,7 @@ Fix the error with comments
 Add tests to prevent regression
 Ensure Child Safety Validation passes
 
-вњЁ 3. New Features
+✨ 3. New Features
 Prerequisites:
 You must create a Feature Request Issue
 Community discussion and maintainer approval
@@ -100,7 +100,7 @@ Responsible Disclosure: do not publish vulnerabilities publicly
 Child-specific threats: special attention to threats against children
 Privacy by Design: built-in privacy protection
 
-рџ”„ DEVELOPMENT PROCESS
+🔄 DEVELOPMENT PROCESS
 
 📋 Step 1: Preparation
 
@@ -182,31 +182,31 @@ npm run test:a11y
 📤 Step 6: Pull Request
 
 Checklist before creating a PR:
- All tests pass вњ…
- Child Safety Validation passed вњ…
- Gefunden Ethical Review completed вњ…
- Documentation updated вњ…
- Localization verified (if applicable) вњ…
- Accessibility requirements met вњ…
+ All tests pass ✅
+ Child Safety Validation passed ✅
+ Gefunden Ethical Review completed ✅
+ Documentation updated ✅
+ Localization verified (if applicable) ✅
+ Accessibility requirements met ✅
 
 PR Template:
 ## 📋 Description
 Brief description of changes and their impact on child safety.
 
 ## 🎯 Type of change
-- [ ] рџђ› Bug fix 
-- [ ] вњЁ New feature 
+- [ ] 🐛 Bug fix 
+- [ ] ✨ New feature 
 - [ ] 📝 Documentation 
 - [ ] 🌍 Localization 
 - [ ] 🔒 Security 
 
-## рџ›ЎпёЏ Child Safety Review
+## 🛡️ Child Safety Review
 - [ ] Changes do not affect children's data
 - [ ] Parental controls remain active  
 - [ ] Content filtering is not compromised
 - [ ] Privacy by design is maintained
 
-## вљ–пёЏ Ethical Validation
+## ⚖️ Ethical Validation
 - [ ] Gefunden Protocol complied with
 - [ ] Cultural sensitivity verified
 - [ ] Family values respected
@@ -224,7 +224,7 @@ Brief description of changes and their impact on child safety.
 - [ ] Native speakers verified the translation
 - [ ] RTL support added (for Arabic/Hebrew)
 
-вљ–пёЏ ETHICAL STANDARDS
+⚖️ ETHICAL STANDARDS
 
 🏛пёЏ Gefunden Protocol Compliance
 
@@ -251,7 +251,7 @@ Discrimination on any grounds
 Collection of children's data without parental consent
 Manipulative game mechanics
 
-вњ… Encouraged Content
+✅ Encouraged Content
 
 Welcomed:
 Educational materials with proven effectiveness
@@ -282,26 +282,26 @@ Symbols and images: avoidance of culturally inappropriate elements
 🗂пёЏ Localization File Structure
 
 locales/
-в”њв”Ђв”Ђ en/                 # English (primary)
-в”‚   в”њв”Ђв”Ђ common.json
-в”‚   в”њв”Ђв”Ђ education.json
-в”‚   в””в”Ђв”Ђ parents.json
-в”њв”Ђв”Ђ ru/                 # Russian  
-в”њв”Ђв”Ђ uz/                 # Uzbek
-в”њв”Ђв”Ђ de/                 # German
-в”њв”Ђв”Ђ ar/                 # Arabic (RTL)
-в””в”Ђв”Ђ zh/                 # Chinese
+├── en/                 # English (primary)
+│   ├── common.json
+│   ├── education.json
+│   └── parents.json
+├── ru/                 # Russian  
+├── uz/                 # Uzbek
+├── de/                 # German
+├── ar/                 # Arabic (RTL)
+└── zh/                 # Chinese
 
 🎯 Priority Languages for Localization
 
-рџ‡єрџ‡ї Uzbek - primary regional language
-рџ‡·рџ‡є Russian - lingua franca in the CIS
-рџ‡©рџ‡Є German - partner language (Uzbek-German cooperation)
-рџ‡ёрџ‡¦ Arabic - for Islamic educational content
-рџ‡Ёрџ‡і Chinese - the largest educational market
-рџ‡Єрџ‡ё Spanish - second most spoken language
-рџ‡«рџ‡· French - francophone educational systems
-рџ‡Їрџ‡µ Japanese - innovative educational technologies
+🇺🇿 Uzbek - primary regional language
+🇷🇺 Russian - lingua franca in the CIS
+🇩🇪 German - partner language (Uzbek-German cooperation)
+🇸🇦 Arabic - for Islamic educational content
+🇨🇳 Chinese - the largest educational market
+🇪🇸 Spanish - second most spoken language
+🇫🇷 French - francophone educational systems
+🇯🇵 Japanese - innovative educational technologies
 
 🧪 TESTING STANDARDS
 
@@ -326,7 +326,7 @@ describe('Child Safety', () => {
   });
 });
 
-вљ–пёЏ Ethical Validation Testing
+⚖️ Ethical Validation Testing
 
 Ethical validation tests:
 def test_gefunden_protocol_compliance():
@@ -374,16 +374,16 @@ Automated_Checks:
   Accessibility: "WCAG 2.1 AA compliance"
   Cross_Browser: "Chrome, Firefox, Safari, Edge"
 
-рџ‘Ґ Human Review
+👥 Human Review
 
 Review levels:
 🔧 Technical Review - code, architecture, performance
-рџ›ЎпёЏ Child Safety Review - child safety specialist
-вљ–пёЏ Ethical Review - Terra Ecosystem ethical committee
+🛡️ Child Safety Review - child safety specialist
+⚖️ Ethical Review - Terra Ecosystem ethical committee
 🌍 Cultural Review - representatives of target cultures (for localization)
 📚 Educational Review - pedagogues and educational experts
 
-вЏ±пёЏ Timelines
+⏱️ Timelines
 
 Review_Timeline:
   Automatic_Checks: "5-10 minutes"
@@ -392,15 +392,15 @@ Review_Timeline:
   Ethical_Review: "3-7 days"
   Cultural_Review: "5-10 days (for localization)"
 
-рџЏ† CONTRIBUTOR RECOGNITION
+🏆 CONTRIBUTOR RECOGNITION
 
-рџЋ–пёЏ Reward System
+🎖️ Reward System
 
 Types of recognition:
-рџЏ… Terra Contributor Badge - for the first accepted PR
+🏅 Terra Contributor Badge - for the first accepted PR
 🌐џ Cultural Ambassador - for significant localization
-рџ›ЎпёЏ Child Safety Champion - for child safety improvements
-вљ–пёЏ Ethics Guardian - for ethical system improvements
+🛡️ Child Safety Champion - for child safety improvements
+⚖️ Ethics Guardian - for ethical system improvements
 📚 Education Innovator - for educational innovations
 
 📋 Contributors Wall
@@ -411,9 +411,9 @@ Official Terra Ecosystem website
 Monthly community reports
 Annual Terra Conference
 
-рџ“ћ SUPPORT AND ASSISTANCE
+📞 SUPPORT AND ASSISTANCE
 
-рџ’¬ Communication Channels
+💬 Communication Channels
 
 For contributors:
 Discord: #contributors channel in the Discord server
@@ -430,13 +430,13 @@ Security: a.abdukarimov@fractal-metascience.org
 📚 Resources for Contributors
 
 Training materials:
-рџЋ“ Terra Developer Academy
+🎓 Terra Developer Academy
 📖 Gefunden Protocol Deep Dive
 🌍 Cultural Sensitivity Training
 🔒 Child Safety Best Practices
 
 Tools:
-рџ› пёЏ Terra CLI Tools
+рџ› ️ Terra CLI Tools
 🧪 Testing Framework
 🌍 Localization Tools
 📊 Analytics Dashboard
@@ -446,15 +446,15 @@ Tools:
 Contributing to the Terra Ecosystem is an opportunity to create a better future for children worldwide. Every contribution you make undergoes rigorous validation to ensure maximum benefit for child education while fully complying with ethical standards.
 
 Remember our principles:
-рџ›ЎпёЏ Children First - their safety and well-being is priority #1
-вљ–пёЏ Ethics Built into Code - every line of code passes ethical validation
+🛡️ Children First - their safety and well-being is priority #1
+⚖️ Ethics Built into Code - every line of code passes ethical validation
 🌍 Globally Inclusive - respect for the diversity of cultures and traditions
-рџ‘Є Families Together - technologies to strengthen, not destroy, families
-рџ”¬ Science without Pseudoscience - only verified and proven approaches
+👪 Families Together - technologies to strengthen, not destroy, families
+🔬 Science without Pseudoscience - only verified and proven approaches
 
 Join us in building the ethically-first educational platform! 🌐џ
 
 © 2025 Terra Ecosystem Contributors. This document is licensed under the Terra Public License v1.0.
-🌍 Together we are creating a better future for children all over the world! вњЁ
+🌍 Together we are creating a better future for children all over the world! ✨
 Contact: a.abdukarimov@fractal-metascience.org
 ORCID: 0009-0000-6394-4912

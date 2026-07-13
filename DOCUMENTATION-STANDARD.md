@@ -21,18 +21,18 @@ Every Terra Ecosystem repository **MUST** contain:
 
 | File | Description | Priority |
 |------|-------------|----------|
-| README.md | Project overview, quick start | рџ”ґ Required |
-| LICENSE.md | Terra Public License v1.0 | рџ”ґ Required |
-| CITATION.cff | Academic citation metadata | рџ”ґ Required |
-| CODE_OF_CONDUCT.md | Community behavior rules | рџ”ґ Required |
-| CONTRIBUTING.md | How to contribute | рџ”ґ Required |
-| SECURITY.md | Vulnerability reporting | рџ”ґ Required |
+| README.md | Project overview, quick start | 🔴 Required |
+| LICENSE.md | Terra Public License v1.0 | 🔴 Required |
+| CITATION.cff | Academic citation metadata | 🔴 Required |
+| CODE_OF_CONDUCT.md | Community behavior rules | 🔴 Required |
+| CONTRIBUTING.md | How to contribute | 🔴 Required |
+| SECURITY.md | Vulnerability reporting | 🔴 Required |
 | CHANGELOG.md | Version history | рџџ  Recommended |
 | GOVERNANCE.md | Decision-making structure | рџџ  Recommended |
 
 ---
 
-## рџ“„ README.md STRUCTURE
+## 📄 README.md STRUCTURE
 
 ```markdown
 # Project Name
@@ -47,7 +47,7 @@ Minimal steps to get running.
 ## 📚 Documentation
 Links to full docs.
 
-## рџ¤ќ Contributing
+## 🤝 Contributing
 Link to CONTRIBUTING.md
 
 ## 📜 License
@@ -59,7 +59,7 @@ Link to FMP-CENTRAL-REPO
 
 ---
 
-## вњЌпёЏ WRITING STYLE
+## ✍️ WRITING STYLE
 
 ### Language
 
@@ -91,7 +91,7 @@ Code — for commands, filenames, variables
 
 ---
 
-## рџ”ў VERSIONING STANDARD
+## 🔢 VERSIONING STANDARD
 
 All documents follow **Semantic Versioning** (MAJOR.MINOR.PATCH):
 
@@ -122,10 +122,10 @@ All documents follow **Semantic Versioning** (MAJOR.MINOR.PATCH):
 
 ```
 docs/
-в”њв”Ђв”Ђ en/          # English (primary)
-в”њв”Ђв”Ђ ru/          # Russian
-в”њв”Ђв”Ђ uz/          # Uzbek
-в””в”Ђв”Ђ de/          # German
+├── en/          # English (primary)
+├── ru/          # Russian
+├── uz/          # Uzbek
+└── de/          # German
 ```
 
 ### Translation Rules
@@ -172,7 +172,7 @@ version: "1.0.0"
 
 ---
 
-## вњ… DOCUMENTATION CHECKLIST
+## ✅ DOCUMENTATION CHECKLIST
 
 - [ ] All required files present
 - [ ] README follows standard structure

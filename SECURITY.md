@@ -1,6 +1,6 @@
 # Security Policy for Terra Ecosystem
 
-## рџ›ЎпёЏ Core Principle: Child Safety First
+## 🛡️ Core Principle: Child Safety First
 The Terra Ecosystem strictly adheres to the **Gefunden Protocol** and **Privacy by Design**. The safety, privacy, and psychological well-being of children are our absolute highest priorities.
 
 ## Supported Versions
